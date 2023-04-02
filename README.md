@@ -1,2 +1,2 @@
 # FreeProxyScraper
-Rastgele internet sitelerinden regex desenine uyan üretsiz proxy'leri indirir ve kaydeder.
+Rastgele internet sitelerinden regex desenine uyan ücretsiz proxy'leri indirir ve kaydeder.
